@@ -1,2 +1,6 @@
 # standard-zh
-🔥🔥🔥 standard Javascript 代码规范中文版
+🔥🔥🔥 Standard 是目前非常流行的 Javascript 代码规范（中文版）自带 linter & 代码自动修正。
+
+    该模板包含的两种运行方式可为您节省大量时间：
+    无配置，在项目中实施一致样式
+    在提交之前检查样式错误，节省代码审查时间
